@@ -29,7 +29,11 @@
   
 ### 3. Configure Repo
 
-- Add .gitignore file
+- Add .gitignore file and `git push`
+- Add README.md and `git push`
+- Copy `notes-template.md` into root dir and rename to `[COURSE\TUT-NOTES].md`
+- Use `scrape-[platform].js` to grab boilerplate course info
+- Use gathered course into to fill in and customize the template 
 
 
 ---
