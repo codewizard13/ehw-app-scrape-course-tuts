@@ -30,9 +30,12 @@ Here is some background on the origin of this repo:
 **SOLUTION:** Being able to run a script to automate data collection saved me 30 minutes to an hour each time I had to take notes on a new course.
 
 
-## Description
+## Included Scripts
 
-N/A
+- Scrape YouTube Video Info
+- Scrape LinkedIn Learning course Info
+- Scrape Udemy Course Info
+- Scrape Upwork Job Posting Details
 
 ### Materials/References
 
