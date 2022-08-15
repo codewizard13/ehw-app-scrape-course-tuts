@@ -1,4 +1,4 @@
-// app.js | Eric Hepperle
+// scrape-youtube.js | Eric Hepperle
 
 /* PASTE this into developer console on a video page and run */
 console.clear();
@@ -26,3 +26,8 @@ out += "- Channel URL: " + channel_url + "\n";
 out += "- Avatar URL: " + avatar_pic + "\n";
 
 console.log(out);
+
+/* #GOTCHA: In order to get the code to work in Chrome I had to:
+  - Change all vars (except out) to "let"
+  - Disable CSS sourcemaps
+*/
