@@ -32,7 +32,7 @@ Here is some background on the origin of this repo:
 
 ## Included Scripts
 
-- Scrape YouTube Video Info
+- [Scrape YouTube Video Info](scrape-youtube.js)
 - Scrape LinkedIn Learning course Info
 - Scrape Udemy Course Info
 - Scrape Upwork Job Posting Details
