@@ -35,6 +35,30 @@
 - Use `scrape-[platform].js` to grab boilerplate course info
 - Use gathered course into to fill in and customize the template 
 
+### 4. On GitHub
+
+- Add description to "About" section using this template:
+
+~~~console
+COURSEWORK: Following [Instuctor Name] [Platform] course:
+ [Course Title] ([Published Year]) [[link-to-course]]
+~~~
+
+**Ex:**
+
+```console
+COURSEWORK: Following Brad Schiff's Udemy course:
+ Git a Web Developer Job: Mastering the Modern Workflow (2019)
+ [https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow]
+```
+
+- Add "Topics" (really just tags/keywords). For the example above, you might add the following:
+
+~~~
+javascript, git, course, coursework, workflows, web-developer,
+ modern-javascript, brad-schiff, web-developer-hire, learn-web-code
+~~~
+
 
 ---
 ### REFERENCES:
