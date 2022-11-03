@@ -32,8 +32,12 @@ Here is some background on the origin of this repo:
 
 ## Included Scripts
 
-- [Scrape YouTube Video Info](scrape-youtube.js)
-- Scrape LinkedIn Learning course Info
+- [Scrape YouTube Video Details](scrape-youtube-vid-deets.js)
+- [Scrape LinkedIn Course Details](scrape-linkedin-course-deets.js)
+- [Scrape LinkedIn Course Chapter Outline](scrape-linkedin-chapters.js)
+
+## Future Improvements (In Progress)
+
 - Scrape Udemy Course Info
 - Scrape Upwork Job Posting Details
 
